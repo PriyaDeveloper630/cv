@@ -1,0 +1,18 @@
+
+  hr {
+    border-style: dotted;
+    border-width: thick;
+    border-color: grey;
+    border-top-style: none;
+    width: 30%
+  }
+  body {
+         background-color:#FDD2BF;
+  }
+  h1 {
+       color: #FF3D68;
+       font-family: "Sofia", sans-serif;
+  }
+h3 {font-family: 'Road Rage', cursive,sans-serif;
+
+}
